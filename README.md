@@ -1,6 +1,5 @@
 # Email-City-Declutter
 
-**FOR IMMEDIATE RELEASE**
 
 **Introducing Email City Declutter: The Gamified Email Management Platformer That Turns Inbox Overwhelm Into an Adventure**
 
